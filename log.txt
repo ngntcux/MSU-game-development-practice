@@ -1,0 +1,1336 @@
+2022.12.11 18:52:02 Graph 4, Generation Started
+2022.12.11 18:52:02 Graph 4, Generation Finished {
+  depth: 9,
+  vertices: {amount: 82, distribution: [1, 4, 8, 9, 13, 16, 15, 13, 3]},
+  edges: {amount: 157, distribution: {grey: 81, green: 2, yellow: 51, red: 23}}
+}
+
+2022.12.11 18:52:10 Graph 4, Generation Started
+2022.12.11 18:52:10 Graph 3, Generation Started
+2022.12.11 19:03:33 Graph 4, Generation Started
+2022.12.11 19:03:33 Graph 2, Generation Started
+2022.12.11 19:03:33 Graph 1, Generation Started
+2022.12.11 19:03:33 Graph 3, Generation Started
+2022.12.11 19:03:33 Graph 0, Generation Started
+2022.12.11 19:03:33 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 590, distribution: [1, 25, 92, 217, 255]},
+  edges: {amount: 973, distribution: {grey: 589, green: 64, yellow: 289, red: 31}}
+}
+
+2022.12.11 19:03:33 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 696, distribution: [1, 25, 103, 256, 311]},
+  edges: {amount: 1131, distribution: {grey: 695, green: 61, yellow: 328, red: 47}}
+}
+
+2022.12.11 19:03:33 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 701, distribution: [1, 25, 98, 250, 327]},
+  edges: {amount: 1127, distribution: {grey: 700, green: 69, yellow: 320, red: 38}}
+}
+
+2022.12.11 19:03:33 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 700, distribution: [1, 25, 93, 255, 326]},
+  edges: {amount: 1138, distribution: {grey: 699, green: 76, yellow: 326, red: 37}}
+}
+
+2022.12.11 19:03:33 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 654, distribution: [1, 25, 96, 225, 307]},
+  edges: {amount: 1055, distribution: {grey: 653, green: 60, yellow: 298, red: 44}}
+}
+
+2022.12.11 19:05:17 Graph 4, Generation Started
+2022.12.11 19:05:17 Graph 3, Generation Started
+2022.12.11 19:05:17 Graph 2, Generation Started
+2022.12.11 19:05:17 Graph 1, Generation Started
+2022.12.11 19:05:17 Graph 0, Generation Started
+2022.12.11 19:05:17 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 561, distribution: [1, 25, 87, 214, 234]},
+  edges: {amount: 928, distribution: {grey: 560, green: 52, yellow: 277, red: 39}}
+}
+
+2022.12.11 19:05:17 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 574, distribution: [1, 25, 84, 208, 256]},
+  edges: {amount: 933, distribution: {grey: 573, green: 46, yellow: 276, red: 38}}
+}
+
+2022.12.11 19:05:17 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 614, distribution: [1, 25, 84, 222, 282]},
+  edges: {amount: 982, distribution: {grey: 613, green: 45, yellow: 285, red: 39}}
+}
+
+2022.12.11 19:05:17 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 622, distribution: [1, 25, 87, 227, 282]},
+  edges: {amount: 1021, distribution: {grey: 621, green: 56, yellow: 296, red: 48}}
+}
+
+2022.12.11 19:05:17 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 723, distribution: [1, 25, 101, 261, 335]},
+  edges: {amount: 1167, distribution: {grey: 722, green: 69, yellow: 340, red: 36}}
+}
+
+2022.12.11 19:05:49 Graph 4, Generation Started
+2022.12.11 19:05:49 Graph 3, Generation Started
+2022.12.11 19:05:49 Graph 2, Generation Started
+2022.12.11 19:05:49 Graph 1, Generation Started
+2022.12.11 19:05:49 Graph 0, Generation Started
+2022.12.11 19:05:49 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 551, distribution: [1, 25, 84, 212, 229]},
+  edges: {amount: 919, distribution: {grey: 550, green: 67, yellow: 273, red: 29}}
+}
+
+2022.12.11 19:05:49 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 637, distribution: [1, 25, 96, 231, 284]},
+  edges: {amount: 1032, distribution: {grey: 636, green: 59, yellow: 302, red: 35}}
+}
+
+2022.12.11 19:05:49 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 626, distribution: [1, 25, 96, 231, 273]},
+  edges: {amount: 1018, distribution: {grey: 625, green: 48, yellow: 303, red: 42}}
+}
+
+2022.12.11 19:05:49 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 571, distribution: [1, 25, 88, 208, 249]},
+  edges: {amount: 957, distribution: {grey: 570, green: 61, yellow: 281, red: 45}}
+}
+
+2022.12.11 19:05:49 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 672, distribution: [1, 25, 98, 256, 292]},
+  edges: {amount: 1115, distribution: {grey: 671, green: 79, yellow: 328, red: 37}}
+}
+
+2022.12.11 19:06:15 Graph 4, Generation Started
+2022.12.11 19:06:15 Graph 3, Generation Started
+2022.12.11 19:06:15 Graph 2, Generation Started
+2022.12.11 19:06:15 Graph 1, Generation Started
+2022.12.11 19:06:15 Graph 0, Generation Started
+2022.12.11 19:06:15 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 607, distribution: [1, 25, 93, 217, 271]},
+  edges: {amount: 1003, distribution: {grey: 606, green: 58, yellow: 291, red: 48}}
+}
+
+2022.12.11 19:06:15 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 642, distribution: [1, 25, 96, 228, 292]},
+  edges: {amount: 1047, distribution: {grey: 641, green: 62, yellow: 302, red: 42}}
+}
+
+2022.12.11 19:06:15 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 619, distribution: [1, 25, 89, 231, 273]},
+  edges: {amount: 1016, distribution: {grey: 618, green: 63, yellow: 302, red: 33}}
+}
+
+2022.12.11 19:06:15 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 683, distribution: [1, 25, 101, 252, 304]},
+  edges: {amount: 1123, distribution: {grey: 682, green: 79, yellow: 323, red: 39}}
+}
+
+2022.12.11 19:06:15 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 634, distribution: [1, 25, 93, 232, 283]},
+  edges: {amount: 1041, distribution: {grey: 633, green: 64, yellow: 300, red: 44}}
+}
+
+2022.12.11 19:08:22 Graph 4, Generation Started
+2022.12.11 19:08:22 Graph 3, Generation Started
+2022.12.11 19:08:22 Graph 2, Generation Started
+2022.12.11 19:08:22 Graph 1, Generation Started
+2022.12.11 19:08:22 Graph 0, Generation Started
+2022.12.11 19:08:22 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 559, distribution: [1, 25, 91, 209, 233]},
+  edges: {amount: 950, distribution: {grey: 558, green: 59, yellow: 283, red: 50}}
+}
+
+2022.12.11 19:08:22 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 594, distribution: [1, 25, 94, 228, 246]},
+  edges: {amount: 979, distribution: {grey: 593, green: 51, yellow: 295, red: 40}}
+}
+
+2022.12.11 19:08:22 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 596, distribution: [1, 25, 91, 216, 263]},
+  edges: {amount: 971, distribution: {grey: 595, green: 49, yellow: 277, red: 50}}
+}
+
+2022.12.11 19:08:22 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 658, distribution: [1, 25, 93, 238, 301]},
+  edges: {amount: 1064, distribution: {grey: 657, green: 61, yellow: 304, red: 42}}
+}
+
+2022.12.11 19:08:22 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 588, distribution: [1, 25, 87, 208, 267]},
+  edges: {amount: 966, distribution: {grey: 587, green: 56, yellow: 281, red: 42}}
+}
+
+2022.12.11 19:08:45 Graph 4, Generation Started
+2022.12.11 19:08:45 Graph 3, Generation Started
+2022.12.11 19:08:45 Graph 2, Generation Started
+2022.12.11 19:08:45 Graph 1, Generation Started
+2022.12.11 19:08:45 Graph 0, Generation Started
+2022.12.11 19:08:45 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 594, distribution: [1, 25, 82, 219, 267]},
+  edges: {amount: 964, distribution: {grey: 593, green: 56, yellow: 278, red: 37}}
+}
+
+2022.12.11 19:08:45 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 613, distribution: [1, 25, 92, 228, 267]},
+  edges: {amount: 1008, distribution: {grey: 612, green: 62, yellow: 291, red: 43}}
+}
+
+2022.12.11 19:08:45 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 579, distribution: [1, 25, 90, 221, 242]},
+  edges: {amount: 958, distribution: {grey: 578, green: 55, yellow: 285, red: 40}}
+}
+
+2022.12.11 19:08:45 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 685, distribution: [1, 25, 97, 242, 320]},
+  edges: {amount: 1117, distribution: {grey: 684, green: 75, yellow: 319, red: 39}}
+}
+
+2022.12.11 19:08:45 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 646, distribution: [1, 25, 99, 225, 296]},
+  edges: {amount: 1042, distribution: {grey: 645, green: 65, yellow: 295, red: 37}}
+}
+
+2022.12.11 19:09:20 Graph 4, Generation Started
+2022.12.11 19:09:20 Graph 0, Generation Started
+2022.12.11 19:09:20 Graph 2, Generation Started
+2022.12.11 19:09:20 Graph 1, Generation Started
+2022.12.11 19:09:20 Graph 3, Generation Started
+2022.12.11 19:09:20 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 622, distribution: [1, 25, 91, 228, 277]},
+  edges: {amount: 1023, distribution: {grey: 621, green: 61, yellow: 301, red: 40}}
+}
+
+2022.12.11 19:09:20 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 595, distribution: [1, 25, 89, 211, 269]},
+  edges: {amount: 964, distribution: {grey: 594, green: 56, yellow: 273, red: 41}}
+}
+
+2022.12.11 19:09:20 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 596, distribution: [1, 25, 90, 221, 259]},
+  edges: {amount: 987, distribution: {grey: 595, green: 61, yellow: 292, red: 39}}
+}
+
+2022.12.11 19:09:20 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 683, distribution: [1, 25, 97, 246, 314]},
+  edges: {amount: 1110, distribution: {grey: 682, green: 58, yellow: 326, red: 44}}
+}
+
+2022.12.11 19:09:20 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 667, distribution: [1, 25, 98, 247, 296]},
+  edges: {amount: 1082, distribution: {grey: 666, green: 64, yellow: 313, red: 39}}
+}
+
+2022.12.11 19:09:33 Graph 3, Generation Started
+2022.12.11 19:09:33 Graph 0, Generation Started
+2022.12.11 19:09:33 Graph 4, Generation Started
+2022.12.11 19:09:33 Graph 2, Generation Started
+2022.12.11 19:09:33 Graph 1, Generation Started
+2022.12.11 19:09:33 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 23, distribution: [1, 4, 6, 8, 4]},
+  edges: {amount: 42, distribution: {grey: 22, green: 3, yellow: 14, red: 3}}
+}
+
+2022.12.11 19:09:33 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 26, distribution: [1, 4, 8, 7, 6]},
+  edges: {amount: 50, distribution: {grey: 25, green: 6, yellow: 16, red: 3}}
+}
+
+2022.12.11 19:09:33 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 20, distribution: [1, 4, 7, 6, 2]},
+  edges: {amount: 37, distribution: {grey: 19, green: 4, yellow: 9, red: 5}}
+}
+
+2022.12.11 19:09:33 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 27, distribution: [1, 4, 7, 10, 5]},
+  edges: {amount: 51, distribution: {grey: 26, green: 2, yellow: 19, red: 4}}
+}
+
+2022.12.11 19:09:33 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 15, distribution: [1, 4, 5, 3, 2]},
+  edges: {amount: 29, distribution: {grey: 14, green: 4, yellow: 9, red: 2}}
+}
+
+2022.12.11 19:22:46 Graph 4, Generation Started
+2022.12.11 19:22:46 Graph 2, Generation Started
+2022.12.11 19:22:46 Graph 3, Generation Started
+2022.12.11 19:22:46 Graph 1, Generation Started
+2022.12.11 19:22:46 Graph 0, Generation Started
+2022.12.11 19:22:46 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 608, distribution: [1, 25, 89, 222, 271]},
+  edges: {amount: 991, distribution: {grey: 607, green: 57, yellow: 287, red: 40}}
+}
+
+2022.12.11 19:22:46 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 677, distribution: [1, 25, 96, 241, 314]},
+  edges: {amount: 1109, distribution: {grey: 676, green: 68, yellow: 320, red: 45}}
+}
+
+2022.12.11 19:22:46 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 592, distribution: [1, 25, 86, 202, 278]},
+  edges: {amount: 957, distribution: {grey: 591, green: 61, yellow: 267, red: 38}}
+}
+
+2022.12.11 19:22:46 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 644, distribution: [1, 25, 95, 229, 294]},
+  edges: {amount: 1048, distribution: {grey: 643, green: 62, yellow: 302, red: 41}}
+}
+
+2022.12.11 19:22:46 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 693, distribution: [1, 25, 101, 247, 319]},
+  edges: {amount: 1131, distribution: {grey: 692, green: 69, yellow: 327, red: 43}}
+}
+
+2022.12.11 19:23:23 Graph 4, Generation Started
+2022.12.11 19:23:23 Graph 3, Generation Started
+2022.12.11 19:23:23 Graph 2, Generation Started
+2022.12.11 19:23:23 Graph 1, Generation Started
+2022.12.11 19:23:23 Graph 0, Generation Started
+2022.12.11 19:23:23 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 625, distribution: [1, 25, 100, 230, 269]},
+  edges: {amount: 1049, distribution: {grey: 624, green: 71, yellow: 306, red: 48}}
+}
+
+2022.12.11 19:23:23 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 651, distribution: [1, 25, 93, 237, 295]},
+  edges: {amount: 1064, distribution: {grey: 650, green: 72, yellow: 312, red: 30}}
+}
+
+2022.12.11 19:23:23 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 596, distribution: [1, 25, 86, 220, 264]},
+  edges: {amount: 976, distribution: {grey: 595, green: 57, yellow: 285, red: 39}}
+}
+
+2022.12.11 19:23:23 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 696, distribution: [1, 25, 99, 250, 321]},
+  edges: {amount: 1147, distribution: {grey: 695, green: 81, yellow: 329, red: 42}}
+}
+
+2022.12.11 19:23:23 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 646, distribution: [1, 25, 101, 238, 281]},
+  edges: {amount: 1069, distribution: {grey: 645, green: 68, yellow: 317, red: 39}}
+}
+
+2022.12.11 19:24:24 Graph 4, Generation Started
+2022.12.11 19:24:24 Graph 3, Generation Started
+2022.12.11 19:24:24 Graph 2, Generation Started
+2022.12.11 19:24:24 Graph 1, Generation Started
+2022.12.11 19:24:24 Graph 0, Generation Started
+2022.12.11 19:24:25 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 632, distribution: [1, 25, 92, 216, 298]},
+  edges: {amount: 1034, distribution: {grey: 631, green: 76, yellow: 288, red: 39}}
+}
+
+2022.12.11 19:24:25 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 640, distribution: [1, 25, 88, 231, 295]},
+  edges: {amount: 1035, distribution: {grey: 639, green: 65, yellow: 295, red: 36}}
+}
+
+2022.12.11 19:24:25 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 679, distribution: [1, 25, 97, 245, 311]},
+  edges: {amount: 1103, distribution: {grey: 678, green: 86, yellow: 307, red: 32}}
+}
+
+2022.12.11 19:24:25 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 651, distribution: [1, 25, 95, 240, 290]},
+  edges: {amount: 1061, distribution: {grey: 650, green: 66, yellow: 308, red: 37}}
+}
+
+2022.12.11 19:24:25 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 650, distribution: [1, 25, 88, 227, 309]},
+  edges: {amount: 1051, distribution: {grey: 649, green: 63, yellow: 292, red: 47}}
+}
+
+2022.12.11 19:27:33 Graph 4, Generation Started
+2022.12.11 19:27:33 Graph 3, Generation Started
+2022.12.11 19:27:33 Graph 2, Generation Started
+2022.12.11 19:27:33 Graph 1, Generation Started
+2022.12.11 19:27:33 Graph 0, Generation Started
+2022.12.11 19:27:33 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 630, distribution: [1, 25, 92, 229, 283]},
+  edges: {amount: 1018, distribution: {grey: 629, green: 54, yellow: 294, red: 41}}
+}
+
+2022.12.11 19:27:33 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 652, distribution: [1, 25, 94, 228, 304]},
+  edges: {amount: 1043, distribution: {grey: 651, green: 60, yellow: 290, red: 42}}
+}
+
+2022.12.11 19:27:33 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 639, distribution: [1, 25, 90, 231, 292]},
+  edges: {amount: 1043, distribution: {grey: 638, green: 67, yellow: 299, red: 39}}
+}
+
+2022.12.11 19:27:33 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 584, distribution: [1, 25, 93, 206, 259]},
+  edges: {amount: 967, distribution: {grey: 583, green: 52, yellow: 288, red: 44}}
+}
+
+2022.12.11 19:27:33 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 718, distribution: [1, 25, 98, 255, 339]},
+  edges: {amount: 1159, distribution: {grey: 717, green: 79, yellow: 325, red: 38}}
+}
+
+2022.12.11 19:34:34 Graph 0, Generation Started
+2022.12.11 19:34:34 Graph 0, Generation Finished {
+  depth: 1,
+  vertices: {amount: 1, distribution: [1]},
+  edges: {amount: 0, distribution: {grey: 0, green: 0, yellow: 0, red: 0}}
+}
+
+2022.12.11 19:37:44 Graph 0, Generation Started
+2022.12.11 19:37:44 Graph 2, Generation Started
+2022.12.11 19:37:44 Graph 3, Generation Started
+2022.12.11 19:37:44 Graph 4, Generation Started
+2022.12.11 19:37:44 Graph 1, Generation Started
+2022.12.11 19:37:44 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 611, distribution: [1, 25, 95, 218, 272]},
+  edges: {amount: 977, distribution: {grey: 610, green: 46, yellow: 288, red: 33}}
+}
+
+2022.12.11 19:37:44 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 601, distribution: [1, 25, 89, 218, 268]},
+  edges: {amount: 961, distribution: {grey: 600, green: 50, yellow: 283, red: 28}}
+}
+
+2022.12.11 19:37:44 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 660, distribution: [1, 25, 100, 244, 290]},
+  edges: {amount: 1086, distribution: {grey: 659, green: 78, yellow: 316, red: 33}}
+}
+
+2022.12.11 19:37:44 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 658, distribution: [1, 25, 96, 238, 298]},
+  edges: {amount: 1063, distribution: {grey: 657, green: 66, yellow: 308, red: 32}}
+}
+
+2022.12.11 19:37:44 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 696, distribution: [1, 25, 99, 261, 310]},
+  edges: {amount: 1138, distribution: {grey: 695, green: 62, yellow: 333, red: 48}}
+}
+
+2022.12.11 19:38:27 Graph 9, Generation Started
+2022.12.11 19:38:43 Graph 0, Generation Started
+2022.12.11 19:38:54 Graph 9, Generation Started
+2022.12.11 19:38:54 Graph 9, Generation Finished {
+  depth: 9,
+  vertices: {amount: 102, distribution: [1, 4, 7, 14, 20, 23, 18, 9, 6]},
+  edges: {amount: 203, distribution: {grey: 101, green: 12, yellow: 60, red: 30}}
+}
+
+2022.12.11 19:38:54 Graph 8, Generation Started
+2022.12.11 19:38:54 Graph 8, Generation Finished {
+  depth: 9,
+  vertices: {amount: 97, distribution: [1, 4, 8, 12, 17, 27, 14, 10, 4]},
+  edges: {amount: 199, distribution: {grey: 96, green: 9, yellow: 63, red: 31}}
+}
+
+2022.12.11 19:38:54 Graph 7, Generation Started
+2022.12.11 19:38:54 Graph 7, Generation Finished {
+  depth: 10,
+  vertices: {amount: 107, distribution: [1, 4, 8, 12, 17, 19, 17, 16, 12, 1]},
+  edges: {amount: 213, distribution: {grey: 106, green: 18, yellow: 57, red: 32}}
+}
+
+2022.12.11 19:38:54 Graph 6, Generation Started
+2022.12.11 19:38:54 Graph 6, Generation Finished {
+  depth: 9,
+  vertices: {amount: 99, distribution: [1, 4, 8, 14, 16, 18, 19, 13, 6]},
+  edges: {amount: 200, distribution: {grey: 98, green: 7, yellow: 65, red: 30}}
+}
+
+2022.12.11 19:38:54 Graph 5, Generation Started
+2022.12.11 19:38:54 Graph 5, Generation Finished {
+  depth: 9,
+  vertices: {amount: 62, distribution: [1, 4, 5, 8, 11, 9, 9, 9, 6]},
+  edges: {amount: 121, distribution: {grey: 61, green: 9, yellow: 34, red: 17}}
+}
+
+2022.12.11 19:38:54 Graph 4, Generation Started
+2022.12.11 19:38:54 Graph 4, Generation Finished {
+  depth: 9,
+  vertices: {amount: 92, distribution: [1, 4, 7, 12, 15, 15, 14, 16, 8]},
+  edges: {amount: 184, distribution: {grey: 91, green: 8, yellow: 63, red: 22}}
+}
+
+2022.12.11 19:38:54 Graph 3, Generation Started
+2022.12.11 19:38:54 Graph 3, Generation Finished {
+  depth: 9,
+  vertices: {amount: 84, distribution: [1, 4, 7, 14, 16, 17, 15, 8, 2]},
+  edges: {amount: 157, distribution: {grey: 83, green: 6, yellow: 45, red: 23}}
+}
+
+2022.12.11 19:38:54 Graph 2, Generation Started
+2022.12.11 19:38:54 Graph 2, Generation Finished {
+  depth: 10,
+  vertices: {amount: 100, distribution: [1, 4, 7, 13, 18, 19, 16, 14, 7, 1]},
+  edges: {amount: 196, distribution: {grey: 99, green: 8, yellow: 61, red: 28}}
+}
+
+2022.12.11 19:38:54 Graph 1, Generation Started
+2022.12.11 19:38:54 Graph 1, Generation Finished {
+  depth: 10,
+  vertices: {amount: 97, distribution: [1, 4, 8, 15, 18, 23, 16, 7, 4, 1]},
+  edges: {amount: 185, distribution: {grey: 96, green: 8, yellow: 50, red: 31}}
+}
+
+2022.12.11 19:38:54 Graph 0, Generation Started
+2022.12.11 19:38:54 Graph 0, Generation Finished {
+  depth: 10,
+  vertices: {amount: 132, distribution: [1, 4, 8, 14, 20, 24, 26, 22, 10, 3]},
+  edges: {amount: 272, distribution: {grey: 131, green: 17, yellow: 85, red: 39}}
+}
+
+2022.12.11 19:41:50 Graph 4, Generation Started
+2022.12.11 19:41:50 Graph 3, Generation Started
+2022.12.11 19:41:50 Graph 2, Generation Started
+2022.12.11 19:41:50 Graph 1, Generation Started
+2022.12.11 19:41:50 Graph 0, Generation Started
+2022.12.11 19:41:50 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 687, distribution: [1, 25, 98, 248, 315]},
+  edges: {amount: 1089, distribution: {grey: 686, green: 53, yellow: 312, red: 38}}
+}
+
+2022.12.11 19:41:50 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 657, distribution: [1, 25, 95, 242, 294]},
+  edges: {amount: 1081, distribution: {grey: 656, green: 70, yellow: 318, red: 37}}
+}
+
+2022.12.11 19:41:50 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 683, distribution: [1, 25, 94, 254, 309]},
+  edges: {amount: 1123, distribution: {grey: 682, green: 63, yellow: 334, red: 44}}
+}
+
+2022.12.11 19:41:50 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 639, distribution: [1, 25, 96, 236, 281]},
+  edges: {amount: 1049, distribution: {grey: 638, green: 60, yellow: 311, red: 40}}
+}
+
+2022.12.11 19:41:50 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 718, distribution: [1, 25, 101, 263, 328]},
+  edges: {amount: 1178, distribution: {grey: 717, green: 74, yellow: 343, red: 44}}
+}
+
+2022.12.11 19:46:05 Graph 4, Generation Started
+2022.12.11 19:46:05 Graph 3, Generation Started
+2022.12.11 19:46:05 Graph 2, Generation Started
+2022.12.11 19:46:05 Graph 1, Generation Started
+2022.12.11 19:46:05 Graph 0, Generation Started
+2022.12.11 19:46:05 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 641, distribution: [1, 25, 85, 223, 307]},
+  edges: {amount: 1004, distribution: {grey: 640, green: 55, yellow: 280, red: 29}}
+}
+
+2022.12.11 19:46:05 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 617, distribution: [1, 25, 85, 230, 276]},
+  edges: {amount: 1025, distribution: {grey: 616, green: 74, yellow: 301, red: 34}}
+}
+
+2022.12.11 19:46:05 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 624, distribution: [1, 25, 92, 226, 280]},
+  edges: {amount: 1018, distribution: {grey: 623, green: 59, yellow: 296, red: 40}}
+}
+
+2022.12.11 19:46:05 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 713, distribution: [1, 25, 100, 253, 334]},
+  edges: {amount: 1145, distribution: {grey: 712, green: 64, yellow: 323, red: 46}}
+}
+
+2022.12.11 19:46:05 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 693, distribution: [1, 25, 99, 255, 313]},
+  edges: {amount: 1127, distribution: {grey: 692, green: 60, yellow: 335, red: 40}}
+}
+
+2022.12.11 19:47:27 Graph 9, Generation Started
+2022.12.11 19:47:27 Graph 8, Generation Started
+2022.12.11 19:47:27 Graph 7, Generation Started
+2022.12.11 19:47:27 Graph 6, Generation Started
+2022.12.11 19:47:27 Graph 5, Generation Started
+2022.12.11 19:47:27 Graph 4, Generation Started
+2022.12.11 19:47:27 Graph 3, Generation Started
+2022.12.11 19:47:27 Graph 2, Generation Started
+2022.12.11 19:47:27 Graph 1, Generation Started
+2022.12.11 19:47:27 Graph 0, Generation Started
+2022.12.11 19:47:27 Graph 4, Generation Finished {
+  depth: 9,
+  vertices: {amount: 47, distribution: [1, 4, 7, 7, 8, 5, 6, 7, 2]},
+  edges: {amount: 86, distribution: {grey: 46, green: 3, yellow: 21, red: 16}}
+}
+
+2022.12.11 19:47:27 Graph 9, Generation Finished {
+  depth: 10,
+  vertices: {amount: 82, distribution: [1, 4, 7, 11, 15, 15, 15, 8, 4, 2]},
+  edges: {amount: 151, distribution: {grey: 81, green: 10, yellow: 43, red: 17}}
+}
+
+2022.12.11 19:47:27 Graph 6, Generation Finished {
+  depth: 9,
+  vertices: {amount: 60, distribution: [1, 4, 6, 9, 10, 12, 11, 6, 1]},
+  edges: {amount: 123, distribution: {grey: 59, green: 5, yellow: 37, red: 22}}
+}
+
+2022.12.11 19:47:27 Graph 8, Generation Finished {
+  depth: 9,
+  vertices: {amount: 122, distribution: [1, 4, 8, 15, 22, 26, 25, 17, 4]},
+  edges: {amount: 237, distribution: {grey: 121, green: 13, yellow: 77, red: 26}}
+}
+
+2022.12.11 19:47:27 Graph 7, Generation Finished {
+  depth: 10,
+  vertices: {amount: 27, distribution: [1, 4, 5, 4, 5, 2, 2, 1, 2, 1]},
+  edges: {amount: 47, distribution: {grey: 26, green: 3, yellow: 6, red: 12}}
+}
+
+2022.12.11 19:47:27 Graph 1, Generation Finished {
+  depth: 9,
+  vertices: {amount: 86, distribution: [1, 4, 7, 12, 15, 19, 16, 10, 2]},
+  edges: {amount: 161, distribution: {grey: 85, green: 7, yellow: 46, red: 23}}
+}
+
+2022.12.11 19:47:27 Graph 5, Generation Finished {
+  depth: 10,
+  vertices: {amount: 82, distribution: [1, 4, 6, 10, 15, 15, 12, 12, 6, 1]},
+  edges: {amount: 155, distribution: {grey: 81, green: 5, yellow: 50, red: 19}}
+}
+
+2022.12.11 19:47:27 Graph 2, Generation Finished {
+  depth: 9,
+  vertices: {amount: 84, distribution: [1, 4, 7, 12, 15, 15, 17, 11, 2]},
+  edges: {amount: 175, distribution: {grey: 83, green: 12, yellow: 55, red: 25}}
+}
+
+2022.12.11 19:47:27 Graph 3, Generation Finished {
+  depth: 9,
+  vertices: {amount: 109, distribution: [1, 4, 8, 12, 22, 27, 20, 13, 2]},
+  edges: {amount: 218, distribution: {grey: 108, green: 7, yellow: 73, red: 30}}
+}
+
+2022.12.11 19:47:27 Graph 0, Generation Finished {
+  depth: 9,
+  vertices: {amount: 86, distribution: [1, 4, 8, 12, 16, 18, 15, 9, 3]},
+  edges: {amount: 174, distribution: {grey: 85, green: 10, yellow: 53, red: 26}}
+}
+
+2022.12.11 19:48:08 Graph 4, Generation Started
+2022.12.11 19:48:08 Graph 0, Generation Started
+2022.12.11 19:48:08 Graph 2, Generation Started
+2022.12.11 19:48:08 Graph 1, Generation Started
+2022.12.11 19:48:08 Graph 3, Generation Started
+2022.12.11 19:48:08 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 547, distribution: [1, 25, 83, 199, 239]},
+  edges: {amount: 877, distribution: {grey: 546, green: 44, yellow: 250, red: 37}}
+}
+
+2022.12.11 19:48:08 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 636, distribution: [1, 25, 91, 220, 299]},
+  edges: {amount: 1022, distribution: {grey: 635, green: 55, yellow: 291, red: 41}}
+}
+
+2022.12.11 19:48:08 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 628, distribution: [1, 25, 92, 233, 277]},
+  edges: {amount: 1020, distribution: {grey: 627, green: 54, yellow: 304, red: 35}}
+}
+
+2022.12.11 19:48:08 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 647, distribution: [1, 25, 96, 237, 288]},
+  edges: {amount: 1069, distribution: {grey: 646, green: 72, yellow: 305, red: 46}}
+}
+
+2022.12.11 19:48:08 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 704, distribution: [1, 25, 99, 254, 325]},
+  edges: {amount: 1135, distribution: {grey: 703, green: 66, yellow: 332, red: 34}}
+}
+
+2022.12.11 19:48:33 Graph 9, Generation Started
+2022.12.11 19:48:33 Graph 8, Generation Started
+2022.12.11 19:48:33 Graph 7, Generation Started
+2022.12.11 19:48:33 Graph 6, Generation Started
+2022.12.11 19:48:33 Graph 5, Generation Started
+2022.12.11 19:48:33 Graph 4, Generation Started
+2022.12.11 19:48:33 Graph 3, Generation Started
+2022.12.11 19:48:33 Graph 2, Generation Started
+2022.12.11 19:48:33 Graph 1, Generation Started
+2022.12.11 19:48:33 Graph 0, Generation Started
+2022.12.11 19:48:33 Graph 9, Generation Finished {
+  depth: 9,
+  vertices: {amount: 38, distribution: [1, 4, 7, 7, 6, 6, 3, 3, 1]},
+  edges: {amount: 69, distribution: {grey: 37, green: 2, yellow: 18, red: 12}}
+}
+
+2022.12.11 19:48:33 Graph 8, Generation Finished {
+  depth: 9,
+  vertices: {amount: 79, distribution: [1, 4, 7, 10, 13, 16, 13, 12, 3]},
+  edges: {amount: 156, distribution: {grey: 78, green: 7, yellow: 48, red: 23}}
+}
+
+2022.12.11 19:48:33 Graph 6, Generation Finished {
+  depth: 9,
+  vertices: {amount: 89, distribution: [1, 4, 8, 12, 17, 18, 15, 9, 5]},
+  edges: {amount: 160, distribution: {grey: 88, green: 8, yellow: 50, red: 14}}
+}
+
+2022.12.11 19:48:33 Graph 1, Generation Finished {
+  depth: 10,
+  vertices: {amount: 70, distribution: [1, 4, 6, 7, 12, 15, 12, 9, 3, 1]},
+  edges: {amount: 132, distribution: {grey: 69, green: 7, yellow: 34, red: 22}}
+}
+
+2022.12.11 19:48:33 Graph 3, Generation Finished {
+  depth: 10,
+  vertices: {amount: 81, distribution: [1, 4, 6, 11, 13, 12, 15, 13, 5, 1]},
+  edges: {amount: 167, distribution: {grey: 80, green: 6, yellow: 46, red: 35}}
+}
+
+2022.12.11 19:48:33 Graph 7, Generation Finished {
+  depth: 10,
+  vertices: {amount: 113, distribution: [1, 4, 7, 10, 15, 24, 25, 19, 7, 1]},
+  edges: {amount: 229, distribution: {grey: 112, green: 8, yellow: 67, red: 42}}
+}
+
+2022.12.11 19:48:33 Graph 2, Generation Finished {
+  depth: 10,
+  vertices: {amount: 77, distribution: [1, 4, 7, 8, 10, 13, 12, 12, 8, 2]},
+  edges: {amount: 152, distribution: {grey: 76, green: 8, yellow: 46, red: 22}}
+}
+
+2022.12.11 19:48:33 Graph 4, Generation Finished {
+  depth: 10,
+  vertices: {amount: 85, distribution: [1, 4, 7, 13, 13, 16, 15, 10, 4, 2]},
+  edges: {amount: 163, distribution: {grey: 84, green: 4, yellow: 50, red: 25}}
+}
+
+2022.12.11 19:48:33 Graph 0, Generation Finished {
+  depth: 9,
+  vertices: {amount: 119, distribution: [1, 4, 8, 13, 19, 25, 26, 16, 7]},
+  edges: {amount: 224, distribution: {grey: 118, green: 6, yellow: 70, red: 30}}
+}
+
+2022.12.11 19:48:33 Graph 5, Generation Finished {
+  depth: 10,
+  vertices: {amount: 81, distribution: [1, 4, 7, 12, 17, 15, 13, 8, 3, 1]},
+  edges: {amount: 158, distribution: {grey: 80, green: 8, yellow: 54, red: 16}}
+}
+
+2022.12.11 19:51:48 Graph 4, Generation Started
+2022.12.11 19:51:48 Graph 1, Generation Started
+2022.12.11 19:51:48 Graph 3, Generation Started
+2022.12.11 19:51:48 Graph 2, Generation Started
+2022.12.11 19:51:48 Graph 0, Generation Started
+2022.12.11 19:51:48 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 654, distribution: [1, 25, 98, 238, 292]},
+  edges: {amount: 1059, distribution: {grey: 653, green: 65, yellow: 300, red: 41}}
+}
+
+2022.12.11 19:51:48 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 605, distribution: [1, 25, 87, 224, 268]},
+  edges: {amount: 993, distribution: {grey: 604, green: 57, yellow: 295, red: 37}}
+}
+
+2022.12.11 19:51:48 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 618, distribution: [1, 25, 91, 229, 272]},
+  edges: {amount: 1008, distribution: {grey: 617, green: 55, yellow: 297, red: 39}}
+}
+
+2022.12.11 19:51:48 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 716, distribution: [1, 25, 94, 257, 339]},
+  edges: {amount: 1156, distribution: {grey: 715, green: 85, yellow: 323, red: 33}}
+}
+
+2022.12.11 19:51:48 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 699, distribution: [1, 25, 101, 257, 315]},
+  edges: {amount: 1140, distribution: {grey: 698, green: 66, yellow: 337, red: 39}}
+}
+
+2022.12.11 19:52:05 Graph 9, Generation Started
+2022.12.11 19:52:05 Graph 8, Generation Started
+2022.12.11 19:52:05 Graph 7, Generation Started
+2022.12.11 19:52:05 Graph 6, Generation Started
+2022.12.11 19:52:05 Graph 4, Generation Started
+2022.12.11 19:52:05 Graph 3, Generation Started
+2022.12.11 19:52:05 Graph 5, Generation Started
+2022.12.11 19:52:05 Graph 2, Generation Started
+2022.12.11 19:52:05 Graph 1, Generation Started
+2022.12.11 19:52:05 Graph 0, Generation Started
+2022.12.11 19:53:14 Graph 9, Generation Started
+2022.12.11 19:53:14 Graph 8, Generation Started
+2022.12.11 19:53:14 Graph 7, Generation Started
+2022.12.11 19:53:14 Graph 6, Generation Started
+2022.12.11 19:53:14 Graph 5, Generation Started
+2022.12.11 19:53:14 Graph 4, Generation Started
+2022.12.11 19:53:14 Graph 3, Generation Started
+2022.12.11 19:53:14 Graph 2, Generation Started
+2022.12.11 19:53:14 Graph 1, Generation Started
+2022.12.11 19:53:14 Graph 0, Generation Started
+2022.12.11 19:55:41 Graph 9, Generation Started
+2022.12.11 19:55:41 Graph 8, Generation Started
+2022.12.11 19:55:41 Graph 2, Generation Started
+2022.12.11 19:55:41 Graph 7, Generation Started
+2022.12.11 19:55:41 Graph 6, Generation Started
+2022.12.11 19:55:41 Graph 5, Generation Started
+2022.12.11 19:55:41 Graph 4, Generation Started
+2022.12.11 19:55:41 Graph 3, Generation Started
+2022.12.11 19:55:41 Graph 1, Generation Started
+2022.12.11 19:55:41 Graph 0, Generation Started
+2022.12.11 20:03:16 Graph 11, Generation Started
+2022.12.11 20:03:16 Graph 10, Generation Started
+2022.12.11 20:03:16 Graph 8, Generation Started
+2022.12.11 20:03:16 Graph 9, Generation Started
+2022.12.11 20:03:16 Graph 7, Generation Started
+2022.12.11 20:03:16 Graph 6, Generation Started
+2022.12.11 20:03:16 Graph 4, Generation Started
+2022.12.11 20:03:16 Graph 5, Generation Started
+2022.12.11 20:03:16 Graph 3, Generation Started
+2022.12.11 20:03:16 Graph 2, Generation Started
+2022.12.11 20:03:16 Graph 1, Generation Started
+2022.12.11 20:03:16 Graph 0, Generation Started
+2022.12.11 20:03:16 Graph 10, Generation Finished {
+  depth: 10,
+  vertices: {amount: 101, distribution: [1, 4, 7, 12, 21, 23, 19, 10, 3, 1]},
+  edges: {amount: 179, distribution: {grey: 100, green: 9, yellow: 46, red: 24}}
+}
+
+2022.12.11 20:03:16 Graph 4, Generation Finished {
+  depth: 9,
+  vertices: {amount: 62, distribution: [1, 4, 8, 10, 12, 14, 7, 4, 2]},
+  edges: {amount: 113, distribution: {grey: 61, green: 5, yellow: 34, red: 13}}
+}
+
+2022.12.11 20:03:16 Graph 9, Generation Finished {
+  depth: 9,
+  vertices: {amount: 72, distribution: [1, 4, 7, 11, 14, 14, 11, 9, 1]},
+  edges: {amount: 149, distribution: {grey: 71, green: 6, yellow: 45, red: 27}}
+}
+
+2022.12.11 20:03:16 Graph 11, Generation Finished {
+  depth: 10,
+  vertices: {amount: 75, distribution: [1, 4, 7, 10, 11, 15, 13, 11, 2, 1]},
+  edges: {amount: 144, distribution: {grey: 74, green: 8, yellow: 37, red: 25}}
+}
+
+2022.12.11 20:03:16 Graph 5, Generation Finished {
+  depth: 9,
+  vertices: {amount: 94, distribution: [1, 4, 8, 13, 16, 20, 17, 12, 3]},
+  edges: {amount: 190, distribution: {grey: 93, green: 5, yellow: 60, red: 32}}
+}
+
+2022.12.11 20:03:16 Graph 0, Generation Finished {
+  depth: 8,
+  vertices: {amount: 49, distribution: [1, 4, 5, 7, 8, 13, 9, 2]},
+  edges: {amount: 101, distribution: {grey: 48, green: 6, yellow: 31, red: 16}}
+}
+
+2022.12.11 20:03:16 Graph 8, Generation Finished {
+  depth: 9,
+  vertices: {amount: 88, distribution: [1, 4, 7, 11, 15, 22, 14, 9, 5]},
+  edges: {amount: 178, distribution: {grey: 87, green: 11, yellow: 55, red: 25}}
+}
+
+2022.12.11 20:03:16 Graph 3, Generation Finished {
+  depth: 10,
+  vertices: {amount: 95, distribution: [1, 4, 8, 12, 13, 15, 20, 14, 7, 1]},
+  edges: {amount: 187, distribution: {grey: 94, green: 8, yellow: 56, red: 29}}
+}
+
+2022.12.11 20:03:16 Graph 7, Generation Finished {
+  depth: 10,
+  vertices: {amount: 96, distribution: [1, 4, 8, 12, 14, 17, 19, 13, 7, 1]},
+  edges: {amount: 189, distribution: {grey: 95, green: 11, yellow: 53, red: 30}}
+}
+
+2022.12.11 20:03:16 Graph 2, Generation Finished {
+  depth: 10,
+  vertices: {amount: 89, distribution: [1, 4, 5, 10, 14, 20, 14, 12, 6, 3]},
+  edges: {amount: 178, distribution: {grey: 88, green: 11, yellow: 48, red: 31}}
+}
+
+2022.12.11 20:03:16 Graph 1, Generation Finished {
+  depth: 9,
+  vertices: {amount: 77, distribution: [1, 4, 7, 11, 16, 16, 13, 7, 2]},
+  edges: {amount: 159, distribution: {grey: 76, green: 11, yellow: 50, red: 22}}
+}
+
+2022.12.11 20:03:16 Graph 6, Generation Finished {
+  depth: 10,
+  vertices: {amount: 80, distribution: [1, 4, 7, 9, 14, 13, 11, 13, 6, 2]},
+  edges: {amount: 163, distribution: {grey: 79, green: 9, yellow: 46, red: 29}}
+}
+
+2022.12.11 20:03:36 Graph 0, Generation Started
+2022.12.11 20:03:36 Graph 0, Generation Finished {
+  depth: 1,
+  vertices: {amount: 1, distribution: [1]},
+  edges: {amount: 0, distribution: {grey: 0, green: 0, yellow: 0, red: 0}}
+}
+
+2022.12.11 20:07:06 Graph 4, Generation Started
+2022.12.11 20:07:06 Graph 2, Generation Started
+2022.12.11 20:07:06 Graph 3, Generation Started
+2022.12.11 20:07:06 Graph 1, Generation Started
+2022.12.11 20:07:06 Graph 0, Generation Started
+2022.12.11 20:07:06 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 617, distribution: [1, 25, 87, 222, 282]},
+  edges: {amount: 1006, distribution: {grey: 616, green: 69, yellow: 287, red: 34}}
+}
+
+2022.12.11 20:07:06 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 600, distribution: [1, 25, 85, 220, 269]},
+  edges: {amount: 992, distribution: {grey: 599, green: 60, yellow: 289, red: 44}}
+}
+
+2022.12.11 20:07:06 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 702, distribution: [1, 25, 98, 252, 326]},
+  edges: {amount: 1145, distribution: {grey: 701, green: 82, yellow: 324, red: 38}}
+}
+
+2022.12.11 20:07:06 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 589, distribution: [1, 25, 88, 208, 267]},
+  edges: {amount: 966, distribution: {grey: 588, green: 58, yellow: 284, red: 36}}
+}
+
+2022.12.11 20:07:06 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 683, distribution: [1, 25, 100, 244, 313]},
+  edges: {amount: 1090, distribution: {grey: 682, green: 50, yellow: 321, red: 37}}
+}
+
+2022.12.11 20:07:15 Graph 0, Generation Started
+2022.12.11 20:07:15 Graph 0, Generation Finished {
+  depth: 1,
+  vertices: {amount: 1, distribution: [1]},
+  edges: {amount: 0, distribution: {grey: 0, green: 0, yellow: 0, red: 0}}
+}
+
+2022.12.11 20:07:26 Graph 11, Generation Started
+2022.12.11 20:07:26 Graph 10, Generation Started
+2022.12.11 20:07:26 Graph 9, Generation Started
+2022.12.11 20:07:26 Graph 8, Generation Started
+2022.12.11 20:07:26 Graph 7, Generation Started
+2022.12.11 20:07:26 Graph 6, Generation Started
+2022.12.11 20:07:26 Graph 2, Generation Started
+2022.12.11 20:07:26 Graph 4, Generation Started
+2022.12.11 20:07:26 Graph 3, Generation Started
+2022.12.11 20:07:26 Graph 5, Generation Started
+2022.12.11 20:07:26 Graph 1, Generation Started
+2022.12.11 20:07:26 Graph 0, Generation Started
+2022.12.11 20:07:26 Graph 9, Generation Finished {
+  depth: 11,
+  vertices: {amount: 120, distribution: [1, 4, 8, 12, 16, 18, 21, 22, 12, 4, 2]},
+  edges: {amount: 237, distribution: {grey: 119, green: 7, yellow: 72, red: 39}}
+}
+
+2022.12.11 20:07:26 Graph 11, Generation Finished {
+  depth: 12,
+  vertices: {amount: 136, distribution: [1, 4, 7, 10, 15, 22, 24, 19, 13, 13, 6, 2]},
+  edges: {amount: 270, distribution: {grey: 135, green: 20, yellow: 72, red: 43}}
+}
+
+2022.12.11 20:07:26 Graph 7, Generation Finished {
+  depth: 11,
+  vertices: {amount: 120, distribution: [1, 4, 6, 11, 12, 16, 21, 21, 16, 10, 2]},
+  edges: {amount: 234, distribution: {grey: 119, green: 7, yellow: 76, red: 32}}
+}
+
+2022.12.11 20:07:26 Graph 1, Generation Finished {
+  depth: 11,
+  vertices: {amount: 147, distribution: [1, 4, 7, 9, 16, 24, 24, 24, 20, 12, 6]},
+  edges: {amount: 300, distribution: {grey: 146, green: 22, yellow: 87, red: 45}}
+}
+
+2022.12.11 20:07:26 Graph 8, Generation Finished {
+  depth: 11,
+  vertices: {amount: 117, distribution: [1, 4, 7, 14, 18, 20, 19, 17, 9, 6, 2]},
+  edges: {amount: 215, distribution: {grey: 116, green: 3, yellow: 60, red: 36}}
+}
+
+2022.12.11 20:07:26 Graph 4, Generation Finished {
+  depth: 12,
+  vertices: {amount: 128, distribution: [1, 4, 8, 11, 16, 16, 22, 21, 15, 8, 4, 2]},
+  edges: {amount: 252, distribution: {grey: 127, green: 15, yellow: 66, red: 44}}
+}
+
+2022.12.11 20:07:26 Graph 6, Generation Finished {
+  depth: 12,
+  vertices: {amount: 130, distribution: [1, 4, 8, 12, 19, 24, 21, 17, 14, 6, 3, 1]},
+  edges: {amount: 254, distribution: {grey: 129, green: 14, yellow: 65, red: 46}}
+}
+
+2022.12.11 20:07:26 Graph 10, Generation Finished {
+  depth: 12,
+  vertices: {amount: 150, distribution: [1, 4, 8, 14, 23, 24, 24, 21, 19, 8, 3, 1]},
+  edges: {amount: 296, distribution: {grey: 149, green: 17, yellow: 82, red: 48}}
+}
+
+2022.12.11 20:07:26 Graph 3, Generation Finished {
+  depth: 11,
+  vertices: {amount: 147, distribution: [1, 4, 7, 10, 17, 22, 27, 25, 19, 10, 5]},
+  edges: {amount: 312, distribution: {grey: 146, green: 14, yellow: 93, red: 59}}
+}
+
+2022.12.11 20:07:26 Graph 0, Generation Finished {
+  depth: 10,
+  vertices: {amount: 130, distribution: [1, 4, 8, 14, 16, 22, 25, 22, 12, 6]},
+  edges: {amount: 255, distribution: {grey: 129, green: 11, yellow: 78, red: 37}}
+}
+
+2022.12.11 20:07:26 Graph 2, Generation Finished {
+  depth: 11,
+  vertices: {amount: 115, distribution: [1, 4, 6, 10, 15, 19, 20, 18, 13, 7, 2]},
+  edges: {amount: 233, distribution: {grey: 114, green: 19, yellow: 70, red: 30}}
+}
+
+2022.12.11 20:07:26 Graph 5, Generation Finished {
+  depth: 12,
+  vertices: {amount: 155, distribution: [1, 4, 8, 13, 19, 27, 28, 22, 19, 9, 3, 2]},
+  edges: {amount: 296, distribution: {grey: 154, green: 11, yellow: 88, red: 43}}
+}
+
+2022.12.11 20:09:12 Graph 11, Generation Started
+2022.12.11 20:09:12 Graph 10, Generation Started
+2022.12.11 20:09:12 Graph 5, Generation Started
+2022.12.11 20:09:12 Graph 4, Generation Started
+2022.12.11 20:09:12 Graph 6, Generation Started
+2022.12.11 20:09:12 Graph 7, Generation Started
+2022.12.11 20:09:12 Graph 9, Generation Started
+2022.12.11 20:09:12 Graph 3, Generation Started
+2022.12.11 20:09:12 Graph 8, Generation Started
+2022.12.11 20:09:12 Graph 2, Generation Started
+2022.12.11 20:09:12 Graph 1, Generation Started
+2022.12.11 20:09:12 Graph 0, Generation Started
+2022.12.11 20:09:12 Graph 5, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2477, distribution: [1, 9, 26, 62, 122, 221, 351, 476, 524, 416, 204, 65]},
+  edges: {amount: 5136, distribution: {grey: 2476, green: 231, yellow: 1713, red: 716}}
+}
+
+2022.12.11 20:09:12 Graph 1, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2583, distribution: [1, 9, 27, 58, 119, 231, 376, 503, 535, 423, 243, 58]},
+  edges: {amount: 5365, distribution: {grey: 2582, green: 242, yellow: 1794, red: 747}}
+}
+
+2022.12.11 20:09:12 Graph 11, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2895, distribution: [1, 9, 26, 62, 133, 256, 406, 546, 588, 512, 282, 74]},
+  edges: {amount: 5985, distribution: {grey: 2894, green: 269, yellow: 2045, red: 777}}
+}
+
+2022.12.11 20:09:12 Graph 7, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2846, distribution: [1, 9, 24, 62, 130, 258, 422, 541, 575, 474, 269, 81]},
+  edges: {amount: 5942, distribution: {grey: 2845, green: 303, yellow: 2002, red: 792}}
+}
+
+2022.12.11 20:09:12 Graph 10, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2770, distribution: [1, 9, 22, 54, 114, 215, 368, 532, 583, 522, 267, 83]},
+  edges: {amount: 5811, distribution: {grey: 2769, green: 302, yellow: 1946, red: 794}}
+}
+
+2022.12.11 20:09:12 Graph 2, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2926, distribution: [1, 9, 26, 63, 137, 236, 389, 555, 622, 506, 302, 80]},
+  edges: {amount: 6121, distribution: {grey: 2925, green: 315, yellow: 2041, red: 840}}
+}
+
+2022.12.11 20:09:12 Graph 6, Generation Finished {
+  depth: 12,
+  vertices: {amount: 2976, distribution: [1, 9, 26, 62, 137, 251, 412, 578, 650, 495, 281, 74]},
+  edges: {amount: 6254, distribution: {grey: 2975, green: 309, yellow: 2087, red: 883}}
+}
+
+2022.12.11 20:09:12 Graph 9, Generation Finished {
+  depth: 12,
+  vertices: {amount: 3142, distribution: [1, 9, 27, 63, 142, 272, 449, 605, 661, 548, 297, 68]},
+  edges: {amount: 6575, distribution: {grey: 3141, green: 311, yellow: 2222, red: 901}}
+}
+
+2022.12.11 20:09:12 Graph 8, Generation Finished {
+  depth: 12,
+  vertices: {amount: 3032, distribution: [1, 9, 26, 66, 143, 263, 432, 585, 608, 512, 295, 92]},
+  edges: {amount: 6327, distribution: {grey: 3031, green: 316, yellow: 2114, red: 866}}
+}
+
+2022.12.11 20:09:12 Graph 0, Generation Finished {
+  depth: 12,
+  vertices: {amount: 3065, distribution: [1, 9, 24, 58, 134, 249, 417, 611, 629, 535, 313, 85]},
+  edges: {amount: 6401, distribution: {grey: 3064, green: 290, yellow: 2179, red: 868}}
+}
+
+2022.12.11 20:09:12 Graph 3, Generation Finished {
+  depth: 12,
+  vertices: {amount: 3294, distribution: [1, 9, 26, 65, 149, 279, 455, 638, 698, 553, 331, 90]},
+  edges: {amount: 6886, distribution: {grey: 3293, green: 352, yellow: 2332, red: 909}}
+}
+
+2022.12.11 20:09:13 Graph 4, Generation Finished {
+  depth: 12,
+  vertices: {amount: 3508, distribution: [1, 9, 27, 69, 151, 291, 486, 683, 742, 623, 332, 94]},
+  edges: {amount: 7382, distribution: {grey: 3507, green: 352, yellow: 2494, red: 1029}}
+}
+
+2022.12.12 09:23:05 Graph 4, Generation Started
+2022.12.12 09:23:05 Graph 3, Generation Started
+2022.12.12 09:23:05 Graph 2, Generation Started
+2022.12.12 09:23:05 Graph 1, Generation Started
+2022.12.12 09:23:05 Graph 0, Generation Started
+2022.12.12 09:23:06 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 565, distribution: [1, 25, 89, 219, 231]},
+  edges: {amount: 959, distribution: {grey: 564, green: 64, yellow: 292, red: 39}}
+}
+
+2022.12.12 09:23:06 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 554, distribution: [1, 25, 86, 200, 242]},
+  edges: {amount: 918, distribution: {grey: 553, green: 66, yellow: 271, red: 28}}
+}
+
+2022.12.12 09:23:06 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 649, distribution: [1, 25, 94, 238, 291]},
+  edges: {amount: 1048, distribution: {grey: 648, green: 57, yellow: 307, red: 36}}
+}
+
+2022.12.12 09:23:06 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 613, distribution: [1, 25, 93, 222, 272]},
+  edges: {amount: 1023, distribution: {grey: 612, green: 62, yellow: 304, red: 45}}
+}
+
+2022.12.12 09:23:06 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 669, distribution: [1, 25, 93, 234, 316]},
+  edges: {amount: 1083, distribution: {grey: 668, green: 73, yellow: 301, red: 41}}
+}
+
+2022.12.19 03:32:03 Graph 4, Generation Started
+2022.12.19 03:32:03 Graph 3, Generation Started
+2022.12.19 03:32:03 Graph 2, Generation Started
+2022.12.19 03:32:03 Graph 1, Generation Started
+2022.12.19 03:32:03 Graph 0, Generation Started
+2022.12.19 03:32:03 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 594, distribution: [1, 25, 83, 209, 276]},
+  edges: {amount: 977, distribution: {grey: 593, green: 66, yellow: 277, red: 41}}
+}
+
+2022.12.19 03:32:03 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 671, distribution: [1, 25, 97, 243, 305]},
+  edges: {amount: 1095, distribution: {grey: 670, green: 65, yellow: 315, red: 45}}
+}
+
+2022.12.19 03:32:03 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 695, distribution: [1, 25, 99, 249, 321]},
+  edges: {amount: 1126, distribution: {grey: 694, green: 80, yellow: 318, red: 34}}
+}
+
+2022.12.19 03:32:03 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 678, distribution: [1, 25, 99, 252, 301]},
+  edges: {amount: 1100, distribution: {grey: 677, green: 65, yellow: 321, red: 37}}
+}
+
+2022.12.19 03:32:03 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 692, distribution: [1, 25, 98, 255, 313]},
+  edges: {amount: 1126, distribution: {grey: 691, green: 67, yellow: 332, red: 36}}
+}
+
+2022.12.19 03:36:37 Graph 4, Generation Started
+2022.12.19 03:36:37 Graph 3, Generation Started
+2022.12.19 03:36:37 Graph 2, Generation Started
+2022.12.19 03:36:37 Graph 1, Generation Started
+2022.12.19 03:36:37 Graph 0, Generation Started
+2022.12.19 03:36:37 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 627, distribution: [1, 25, 95, 232, 274]},
+  edges: {amount: 1034, distribution: {grey: 626, green: 54, yellow: 310, red: 44}}
+}
+
+2022.12.19 03:36:37 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 679, distribution: [1, 25, 96, 237, 320]},
+  edges: {amount: 1084, distribution: {grey: 678, green: 64, yellow: 306, red: 36}}
+}
+
+2022.12.19 03:36:37 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 632, distribution: [1, 25, 99, 234, 273]},
+  edges: {amount: 1057, distribution: {grey: 631, green: 65, yellow: 311, red: 50}}
+}
+
+2022.12.19 03:36:37 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 671, distribution: [1, 25, 90, 231, 324]},
+  edges: {amount: 1065, distribution: {grey: 670, green: 63, yellow: 296, red: 36}}
+}
+
+2022.12.19 03:36:37 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 755, distribution: [1, 25, 101, 271, 357]},
+  edges: {amount: 1220, distribution: {grey: 754, green: 81, yellow: 346, red: 39}}
+}
+
+2022.12.19 03:42:25 Graph 4, Generation Started
+2022.12.19 03:42:25 Graph 3, Generation Started
+2022.12.19 03:42:25 Graph 2, Generation Started
+2022.12.19 03:42:25 Graph 1, Generation Started
+2022.12.19 03:42:25 Graph 0, Generation Started
+2022.12.19 03:42:25 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 639, distribution: [1, 25, 90, 224, 299]},
+  edges: {amount: 1021, distribution: {grey: 638, green: 61, yellow: 295, red: 27}}
+}
+
+2022.12.19 03:42:25 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 619, distribution: [1, 25, 91, 226, 276]},
+  edges: {amount: 1017, distribution: {grey: 618, green: 67, yellow: 297, red: 35}}
+}
+
+2022.12.19 03:42:25 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 651, distribution: [1, 25, 94, 245, 286]},
+  edges: {amount: 1070, distribution: {grey: 650, green: 57, yellow: 319, red: 44}}
+}
+
+2022.12.19 03:42:25 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 681, distribution: [1, 25, 95, 256, 304]},
+  edges: {amount: 1122, distribution: {grey: 680, green: 60, yellow: 334, red: 48}}
+}
+
+2022.12.19 03:42:25 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 704, distribution: [1, 25, 92, 259, 327]},
+  edges: {amount: 1131, distribution: {grey: 703, green: 61, yellow: 327, red: 40}}
+}
+
+2022.12.19 03:46:33 Graph 4, Generation Started
+2022.12.19 03:46:33 Graph 3, Generation Started
+2022.12.19 03:46:33 Graph 2, Generation Started
+2022.12.19 03:46:33 Graph 1, Generation Started
+2022.12.19 03:46:33 Graph 0, Generation Started
+2022.12.19 03:46:33 Graph 2, Generation Finished {
+  depth: 5,
+  vertices: {amount: 650, distribution: [1, 25, 92, 234, 298]},
+  edges: {amount: 1057, distribution: {grey: 649, green: 69, yellow: 300, red: 39}}
+}
+
+2022.12.19 03:46:33 Graph 0, Generation Finished {
+  depth: 5,
+  vertices: {amount: 612, distribution: [1, 25, 90, 220, 276]},
+  edges: {amount: 1015, distribution: {grey: 611, green: 74, yellow: 294, red: 36}}
+}
+
+2022.12.19 03:46:33 Graph 3, Generation Finished {
+  depth: 5,
+  vertices: {amount: 707, distribution: [1, 25, 97, 241, 343]},
+  edges: {amount: 1120, distribution: {grey: 706, green: 58, yellow: 313, red: 43}}
+}
+
+2022.12.19 03:46:33 Graph 1, Generation Finished {
+  depth: 5,
+  vertices: {amount: 681, distribution: [1, 25, 90, 242, 323]},
+  edges: {amount: 1087, distribution: {grey: 680, green: 69, yellow: 310, red: 28}}
+}
+
+2022.12.19 03:46:33 Graph 4, Generation Finished {
+  depth: 5,
+  vertices: {amount: 668, distribution: [1, 25, 98, 252, 292]},
+  edges: {amount: 1102, distribution: {grey: 667, green: 68, yellow: 328, red: 39}}
+}
+
+2022.12.19 03:46:37 Graph 0, Generation Started
+2022.12.19 03:46:37 Graph 0, Generation Finished {
+  depth: 1,
+  vertices: {amount: 1, distribution: [1]},
+  edges: {amount: 0, distribution: {grey: 0, green: 0, yellow: 0, red: 0}}
+}
+

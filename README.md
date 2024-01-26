@@ -1,6 +1,8 @@
 # MSU game development practice
 This repository contains a portion of a C++ game implemented as part of a technological practice at Moscow State University.
 
-[Course repository](https://github.com/Friend-LGA/uni_course_cpp)
+[Lecture repository](https://github.com/victorkitov/DL)
 
-[Development repository](https://github.com/Friend-LGA/msu_course_cpp_323_2022/tree/master/afanasev_krymskiy)
+[Practice repository](https://github.com/MSU-ML-COURSE/DL-COURSE-23)
+
+[Other repository](https://github.com/girafe-ai/ml-course/tree/23f_msu_dl)
